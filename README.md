@@ -22,7 +22,6 @@ class About extends Me
             Javascript::class,
             Laravel::class,
             Vuejs::class,
-            Golang::class,
             Flutter::class,
         ];
     }
