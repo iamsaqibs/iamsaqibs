@@ -10,7 +10,7 @@ class About extends Me
         return [
             'workplace' => [
                 'company' => 'Strategic Systems International',
-                'position' => 'Software Engineer'         
+                'position' => 'Senior Software Engineer'         
             ]
         ];
     }
