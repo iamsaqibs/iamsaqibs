@@ -21,7 +21,7 @@ class About extends Me
             Php::class,
             Javascript::class,
             Laravel::class,
-            Vuejs::class,
+            ReactJS::class,
             Flutter::class,
         ];
     }
