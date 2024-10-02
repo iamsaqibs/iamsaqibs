@@ -23,6 +23,7 @@ class About extends Me
             Laravel::class,
             ReactJS::class,
             Flutter::class,
+            Go::class,
         ];
     }
 
